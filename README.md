@@ -29,8 +29,8 @@ Tunehub is a full-stack music application built using Java, Spring Boot, MySQL, 
 
 ## Getting Started
 
-To run the project locally, follow these steps:
+To run the project locally :
 
-1. **Clone the repository:**
+ **Clone the repository:**
 git clone https://github.com/Basusahu231/Tunehub.git
 
